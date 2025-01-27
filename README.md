@@ -52,10 +52,10 @@ Your webcam will activate, and you can start practicing gestures!
 ---
 
 ## Usage
-Launch the application using the command python main.py.
-Follow the on-screen instructions to start practicing gestures.
-Use the interactive tutorials to learn new gestures and track your progress through quizzes.
-The system will provide immediate feedback based on the accuracy of your gestures.
+-Launch the application using the command python main.py.
+-Follow the on-screen instructions to start practicing gestures.
+-Use the interactive tutorials to learn new gestures and track your progress through quizzes.
+-The system will provide immediate feedback based on the accuracy of your gestures.
 
 
 
