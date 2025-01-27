@@ -16,13 +16,13 @@ Using OpenCV, TensorFlow, and Python, the system tracks webcam input, processes 
 * NumPy: Used for handling data and image arrays.
 
 ## Installation
-# 1. Clone the repository
+### 1. Clone the repository
 First, clone the repository to your local machine:
 ```
 git clone https://github.com/bkiran-sree/gestureRecognition.git
 cd gestureRecognition
 ```
-# 2. Set up a virtual environment (optional but recommended)
+### 2. Set up a virtual environment (optional but recommended)
 Creating a virtual environment helps manage project dependencies. To set it up, run the following command:
 - **For Windows:**
   ```bash
@@ -35,13 +35,13 @@ Creating a virtual environment helps manage project dependencies. To set it up, 
   source venv/bin/activate
   ```
   
-# 3. Install dependencies
+### 3. Install dependencies
 You can install the dependencies manually. Here's a list of common dependencies:
 ```bash
 pip install opencv-python tensorflow numpy matplotlib
 ```
 
-# 4. Run the application
+### 4. Run the application
 To start the application, run:
 ```bash
 python main.py
