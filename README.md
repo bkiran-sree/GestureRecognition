@@ -17,10 +17,10 @@ Using OpenCV, TensorFlow, and Python, the system tracks webcam input, processes 
 
 ## Installation
 ### 1. Clone the repository
-...
+```
 git clone https://github.com/bkiran-sree/gestureRecognition.git
 cd gestureRecognition
-...
+```
 
 
 
