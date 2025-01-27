@@ -57,6 +57,12 @@ Your webcam will activate, and you can start practicing gestures!
 - Use the interactive tutorials to learn new gestures and track your progress through quizzes.
 - The system will provide immediate feedback based on the accuracy of your gestures.
 
+## Screenshots
+
+
+## Acknowledgement
+* OpenCV and TensorFlow for providing powerful computer vision and machine learning libraries.
+* Stack Overflow and GitHub communities for troubleshooting and problem-solving.
 
 
 
