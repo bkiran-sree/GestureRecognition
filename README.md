@@ -1,4 +1,4 @@
-# Gesture Recognition
+# Gesture Speak
 An interactive gesture recognition platform using machine learning and computer vision for learning sign language and improving gesture-based communication.
 Using OpenCV, TensorFlow, and Python, the system tracks webcam input, processes gestures, and provides immediate feedback. Features include gesture tutorials, quizzes, and progress tracking, aimed at making gesture-based communication, such as sign language, more accessible and engaging.
 
